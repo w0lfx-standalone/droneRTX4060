@@ -1,9 +1,0 @@
-runs/
-datasets/
-dataset2/
-hunts/
-__pycache__/
-*.pyc
-.venv/
-venv/
-.DS_Store
